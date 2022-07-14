@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TimeZoneLinuxContainerDateTimeFromJson": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
